@@ -51,5 +51,5 @@ This project analyzes customer churn in the telecom industry and builds predicti
   pip install -r requirements.txt
   ```
 ## Links
-
+Github repo [customer_churn_prediction](https://github.com/Ahhssenn/ml_project)\
 Author: Mian Ahsan Jan
